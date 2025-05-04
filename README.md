@@ -15,6 +15,12 @@ Inspired in some Linux showcase that i saw.
 - Weather stats.
 - Music Info.
 
+## User Settings.
+- Quickly changes:
+    - Do click on Time to toggle between (12/42) hour format.
+    - Do click on the line next to Time to toggle `Welcome` text.
+- Do right click on Clocky and then click on `Edit Variables`.
+
 ## Installation
 1 - Download the latest version from [Releases](https://github.com/KazukiGames82/Clocky/releases) tab.
 
